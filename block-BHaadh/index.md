@@ -1,7 +1,7 @@
 ### Assignment I
 
 Please read the following links:
-
+<!-- ... -->
 - https://learn.shayhowe.com/advanced-html-css/transitions-animations/
 
 - https://learn.shayhowe.com/advanced-html-css/transitions-animations/
